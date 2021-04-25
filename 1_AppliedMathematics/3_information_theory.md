@@ -1,3 +1,3 @@
 ＃情報理論
 
-\frac{\partial f}{\partial x}
+$$ \frac{\partial f}{\partial x} $$
